@@ -31,8 +31,7 @@
 
 最后分享一个上课课件上奇奇怪怪的图片😇
 
-![img](https://github.com/half-dreamer/QSC-interview_code-Q-A/blob/main/Markdown_images/image-20220926205959323.png))
+![img](https://github.com/half-dreamer/QSC-interview_code-Q-A/blob/main/Markdown_images/image-20220926205959323.png)
 
 
 
-![img](https://github.com/half-dreamer/QSC-interview_code-Q-A/blob/main/Markdown_images/image-20220926202233752.png)
