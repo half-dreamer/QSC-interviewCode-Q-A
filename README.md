@@ -4,7 +4,7 @@
 
 安装Prettier截图：
 
-![image-20220926202233752](C:\Users\13190\AppData\Roaming\Typora\typora-user-images\image-20220926202233752.png)
+![image-20220926202233752](E:\社团文件\求是潮二面题\Q&A\Markdown images\prettier截图)
 
 
 
