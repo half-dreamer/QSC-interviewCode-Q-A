@@ -4,13 +4,13 @@
 
 安装Prettier截图：
 
-![image-20220926202233752](E:\社团文件\求是潮二面题\Q&A\Markdown images\image-20220926202233752.png)
+![img](https://github.com/half-dreamer/QSC-interview_code-Q-A/blob/main/Markdown images/image-20220926202233752.png)
 
 
 
 ### Part2
 
-![image-20220928233111526](E:\社团文件\求是潮二面题\Q&A\Markdown images\image-20220928233111526.png)
+![img](https://github.com/half-dreamer/QSC-interview_code-Q-A/blob/main/Markdown images/image-20220928233111526.png)
 
 界面顶端为一个Q&A的导航栏，界面中心有5个按钮，点击后显示相关内容
 
@@ -31,6 +31,8 @@
 
 最后分享一个上课课件上奇奇怪怪的图片😇
 
+![img](https://github.com/half-dreamer/QSC-interview_code-Q-A/blob/main/Markdown images/image-20220926205959323.png))
 
 
-![image-20220926205959323](E:\社团文件\求是潮二面题\Q&A\Markdown images\image-20220926205959323.png)
+
+![img](https://github.com/half-dreamer/QSC-interview_code-Q-A/blob/main/Markdown images/image-20220926202233752.png)
